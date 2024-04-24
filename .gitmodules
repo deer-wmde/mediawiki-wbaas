@@ -134,3 +134,111 @@
 	path = vendor
 	url = https://gerrit.wikimedia.org/r/mediawiki/vendor
 	branch = REL1_39
+[submodule "extensions/AdvancedSearch"]
+	path = extensions/AdvancedSearch
+	url = https://github.com/wikimedia/mediawiki-extensions-AdvancedSearch
+[submodule "extensions/Auth_remoteuser"]
+	path = extensions/Auth_remoteuser
+	url = https://github.com/wikimedia/mediawiki-extensions-Auth_remoteuser
+[submodule "extensions/CirrusSearch"]
+	path = extensions/CirrusSearch
+	url = https://github.com/wikimedia/mediawiki-extensions-CirrusSearch
+[submodule "extensions/cldr"]
+	path = extensions/cldr
+	url = https://github.com/wikimedia/mediawiki-extensions-cldr
+[submodule "extensions/CodeMirror"]
+	path = extensions/CodeMirror
+	url = https://github.com/wikimedia/mediawiki-extensions-CodeMirror
+[submodule "extensions/ConfirmAccount"]
+	path = extensions/ConfirmAccount
+	url = https://github.com/wikimedia/mediawiki-extensions-ConfirmAccount
+[submodule "extensions/DeleteBatch"]
+	path = extensions/DeleteBatch
+	url = https://github.com/wikimedia/mediawiki-extensions-DeleteBatch
+[submodule "extensions/DismissableSiteNotice"]
+	path = extensions/DismissableSiteNotice
+	url = https://github.com/wikimedia/mediawiki-extensions-DismissableSiteNotice
+[submodule "extensions/Echo"]
+	path = extensions/Echo
+	url = https://github.com/wikimedia/mediawiki-extensions-Echo
+[submodule "extensions/Elastica"]
+	path = extensions/Elastica
+	url = https://github.com/wikimedia/mediawiki-extensions-Elastica
+[submodule "extensions/EntitySchema"]
+	path = extensions/EntitySchema
+	url = https://github.com/wikimedia/mediawiki-extensions-EntitySchema
+[submodule "extensions/Graph"]
+	path = extensions/Graph
+	url = https://github.com/wikimedia/mediawiki-extensions-Graph
+[submodule "extensions/InviteSignup"]
+	path = extensions/InviteSignup
+	url = https://github.com/wikimedia/mediawiki-extensions-InviteSignup
+[submodule "extensions/JsonConfig"]
+	path = extensions/JsonConfig
+	url = https://github.com/wikimedia/mediawiki-extensions-JsonConfig
+[submodule "extensions/Kartographer"]
+	path = extensions/Kartographer
+	url = https://github.com/wikimedia/mediawiki-extensions-Kartographer
+[submodule "extensions/Mailgun"]
+	path = extensions/Mailgun
+	url = https://github.com/wikimedia/mediawiki-extensions-Mailgun
+[submodule "extensions/MobileFrontend"]
+	path = extensions/MobileFrontend
+	url = https://github.com/wikimedia/mediawiki-extensions-MobileFrontend
+[submodule "extensions/OAuth"]
+	path = extensions/OAuth
+	url = https://github.com/wikimedia/mediawiki-extensions-OAuth
+[submodule "extensions/RevisionSlider"]
+	path = extensions/RevisionSlider
+	url = https://github.com/wikimedia/mediawiki-extensions-RevisionSlider
+[submodule "extensions/Score"]
+	path = extensions/Score
+	url = https://github.com/wikimedia/mediawiki-extensions-Score
+[submodule "extensions/StopForumSpam"]
+	path = extensions/StopForumSpam
+	url = https://github.com/wikimedia/mediawiki-extensions-StopForumSpam
+[submodule "extensions/TemplateSandbox"]
+	path = extensions/TemplateSandbox
+	url = https://github.com/wikimedia/mediawiki-extensions-TemplateSandbox
+[submodule "extensions/Thanks"]
+	path = extensions/Thanks
+	url = https://github.com/wikimedia/mediawiki-extensions-Thanks
+[submodule "extensions/TorBlock"]
+	path = extensions/TorBlock
+	url = https://github.com/wikimedia/mediawiki-extensions-TorBlock
+[submodule "extensions/TwoColConflict"]
+	path = extensions/TwoColConflict
+	url = https://github.com/wikimedia/mediawiki-extensions-TwoColConflict
+[submodule "extensions/UniversalLanguageSelector"]
+	path = extensions/UniversalLanguageSelector
+	url = https://github.com/wikimedia/mediawiki-extensions-UniversalLanguageSelector
+[submodule "extensions/Wikibase"]
+	path = extensions/Wikibase
+	url = https://github.com/wikimedia/mediawiki-extensions-Wikibase
+[submodule "extensions/WikibaseCirrusSearch"]
+	path = extensions/WikibaseCirrusSearch
+	url = https://github.com/wikimedia/mediawiki-extensions-WikibaseCirrusSearch
+[submodule "extensions/WikibaseLexeme"]
+	path = extensions/WikibaseLexeme
+	url = https://github.com/wikimedia/mediawiki-extensions-WikibaseLexeme
+[submodule "extensions/WikibaseLexemeCirrusSearch"]
+	path = extensions/WikibaseLexemeCirrusSearch
+	url = https://github.com/wikimedia/mediawiki-extensions-WikibaseLexemeCirrusSearch
+[submodule "extensions/WikibaseManifest"]
+	path = extensions/WikibaseManifest
+	url = https://github.com/wikimedia/mediawiki-extensions-WikibaseManifest
+[submodule "extensions/WikiHiero"]
+	path = extensions/WikiHiero
+	url = https://github.com/wikimedia/mediawiki-extensions-WikiHiero
+[submodule "extensions/WikibaseInWikitext"]
+	path = extensions/WikibaseInWikitext
+	url = https://github.com/wbstack/mediawiki-extensions-WikibaseInWikitext
+[submodule "extensions/WikibaseExampleData"]
+	path = extensions/WikibaseExampleData
+	url = https://github.com/wmde/WikibaseExampleData
+[submodule "extensions/WikibaseEdtf"]
+	path = extensions/WikibaseEdtf
+	url = https://github.com/ProfessionalWiki/WikibaseEdtf
+[submodule "extensions/ThatSrc"]
+	path = extensions/ThatSrc
+	url = https://github.com/nyurik/ThatSrc
